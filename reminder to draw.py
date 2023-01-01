@@ -6,7 +6,7 @@ from PIL import Image
 from tkinter import Tk, Label, Button
 
 # Set the directory containing the images
-image_directory = "C:/Users/harsh/Desktop/research_purposes/sfw/non-nude"
+image_directory = r"C:\path\to\directory"
 
 # Get a list of the images in the directory and its subfolders
 images = []
